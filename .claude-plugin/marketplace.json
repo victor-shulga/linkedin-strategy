@@ -1,0 +1,22 @@
+{
+  "name": "linkedin-strategy-engine-skills",
+  "metadata": {
+    "description": "LinkedIn strategy builder — a 9-section machine-readable strategy config in Notion (ICP, voice profile, pillars, offer audit, viral levers, distribution). Standalone extract of the content-engine strategy step."
+  },
+  "owner": {
+    "name": "Victor Shulga",
+    "url": "https://github.com/victor-shulga"
+  },
+  "plugins": [
+    {
+      "name": "linkedin-strategy-engine",
+      "source": "./",
+      "description": "From a person LinkedIn + company site → a 9-section LinkedIn strategy config in Notion, seeding the Idea Pool. Voice profile from real posts, offer audit, viral levers, 2026 distribution playbook.",
+      "version": "0.1.0",
+      "keywords": ["linkedin", "content", "strategy", "icp", "notion"],
+      "author": {
+        "name": "Victor Shulga"
+      }
+    }
+  ]
+}

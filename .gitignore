@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Local GTM output (fallback when Notion unavailable)
+gtm-output/
+
+# Editor / env
+.vscode/
+.idea/
+*.log
+.env
+
+# local design doc (not for public repo)
+POSITIONING-SKILL-SPEC.md
