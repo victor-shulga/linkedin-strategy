@@ -1,5 +1,5 @@
 {
-  "name": "linkedin-strategy-engine-skills",
+  "name": "linkedin-strategy",
   "metadata": {
     "description": "LinkedIn strategy builder — a 9-section machine-readable strategy config in Notion (ICP, voice profile, pillars, offer audit, viral levers, distribution). Standalone extract of the content-engine strategy step."
   },

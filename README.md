@@ -32,8 +32,8 @@ Claude Code plugin (standalone tool): будує **машиночитну Linked
 ## Встановлення
 
 ```
-/plugin marketplace add victor-shulga/linkedin-strategy-engine-skills
-/plugin install linkedin-strategy-engine@linkedin-strategy-engine-skills
+/plugin marketplace add victor-shulga/linkedin-strategy
+/plugin install linkedin-strategy-engine@linkedin-strategy
 ```
 
 ## Запуск
