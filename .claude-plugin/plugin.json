@@ -1,6 +1,6 @@
 {
   "name": "linkedin-strategy-engine",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Builds a machine-readable LinkedIn social selling strategy in Notion from a person LinkedIn profile + company site. Outputs a 9-section config (goals/KPI, ICP+persona, enemy+signature, content pillars, offer audit for LinkedIn sellability, voice profile, viral levers, distribution playbook, backstory) that downstream content tools read. Extracted from the content-engine plugin as a standalone tool. Outputs to Notion in Ukrainian.",
   "author": {
     "name": "Viktor Shulha",

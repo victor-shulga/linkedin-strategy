@@ -12,7 +12,7 @@
       "name": "linkedin-strategy-engine",
       "source": "./",
       "description": "From a person LinkedIn + company site → a 9-section LinkedIn strategy config in Notion, seeding the Idea Pool. Voice profile from real posts, offer audit, viral levers, 2026 distribution playbook.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "keywords": ["linkedin", "content", "strategy", "icp", "notion"],
       "author": {
         "name": "Victor Shulga"

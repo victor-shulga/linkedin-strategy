@@ -20,7 +20,7 @@ Content Engine                      ← головна сторінка (workspa
 | Property | Тип | Значення |
 |---|---|---|
 | Name | title | робоча назва ідеї (1 рядок) |
-| Client | select | (your client names) |
+| Client | select | Acme, Globex, … |
 | Pillar | select | з секції 7 стратегії клієнта |
 | Funnel | select | TOFU / MOFU / BOFU |
 | Format | select | text-only / single image / carousel / infographic / lead magnet / video |
